@@ -1,2 +1,2 @@
 # Walkthrough-test
-A follow along exercise for learning about Github
+A basic git repo, made as part of a follow-along exercise for learning about Github
